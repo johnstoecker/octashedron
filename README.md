@@ -1,0 +1,2 @@
+# octashedron
+Mirrored polyhedrons
